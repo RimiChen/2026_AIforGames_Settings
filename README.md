@@ -75,7 +75,7 @@ pip install pygame
 Run:
 
 ```bash
-python -m pygame.examples.aliens
+python EnvTest.py
 ```
 
 If a game window opens, your setup is successful.
